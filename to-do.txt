@@ -1,0 +1,18 @@
+-  ny BG bild till heron
+- bestäm färgtemat i detalj, ex navlänkarna, dvs - ta fram en till gul/grön färg för att de ska passa in.
+- lös knappen, ungefär som den såg ut o agerade förut...?? 
+
+- mobilanpassa sidan inkl Navbaren! (bestäm huruvida navbaren ska vara samma över alla sidor- både i text och layout)
+
+- samla ihop web-design- projekt jag gjort
+- skapa layout för - 
+        - webdesign sidan
+        - Art
+        -Exhibitions
+- ny favicon
+- skapa merit-"bars"? 
+
+
+
+
+ 
